@@ -1,4 +1,4 @@
 ---
 title: Hello World
 ---
-add  Travis CI
+test  Travis CI 
