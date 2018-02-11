@@ -1,2 +1,2 @@
-<h1 align="center"><a href="https://github.com/haloislet/blog">👨‍💻  blog</a></h1>
+<h1 align="center"><a href="https://haloislet.github.io">👨‍💻  blog</a></h1>
 
