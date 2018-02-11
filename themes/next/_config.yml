@@ -452,7 +452,7 @@ disqus:
   lazyload: false
 
 # Hypercomments
-hypercomments_id: 101174
+#hypercomments_id: 101174
 
 # changyan
 changyan:
