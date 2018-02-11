@@ -11,7 +11,8 @@
     "clean": "hexo clean",
     "build": "hexo generate",
     "predeploy": "npm run clean",
-    "deploy": "hexo deploy -g"
+    "deploy": "hexo deploy -g",
+	"push": "git push origin  master:blog"
   },
   "dependencies": {
     "hexo": "^3.2.0",
