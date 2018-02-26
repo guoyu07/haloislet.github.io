@@ -11,6 +11,7 @@ categories:
 > 在每一个方法中，关键字 this 表示隐式参数。 
 > —— 《Java 核心技术 卷Ⅰ》
 
+<!--more-->
 <br>
 
 ## this 是什么？
@@ -19,7 +20,7 @@ categories:
 
 了解 python 的同学可能会知道，python 构造函数中总是会出现 self 参数。这个参数用来表示创建的实例对象。
 
-<!--more-->
+
 
 ```python
 class Student(object):
