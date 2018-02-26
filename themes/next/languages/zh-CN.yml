@@ -35,10 +35,10 @@ post:
   total_time: 站点总阅读时长
   related_posts: 相关文章
   copyright:
-    author: 本文作者
-    link: 本文链接
-    license_title: 版权声明
-    license_content: "本博客所有文章除特别声明外，均采用 %s 许可协议。转载请注明出处！"
+    author: 作者
+    link: 链接
+    license_title: 许可协议
+    license_content: "自由转载-非商用-非衍生-保持署名<a href='https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh'>（创意共享3.0许可证）</a>"
 page:
   totally: 共有
   tags: 标签
