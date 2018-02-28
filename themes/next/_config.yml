@@ -928,5 +928,10 @@ css: css
 js: js
 images: images
 
+# Online contact 
+daovoice: true
+
+daovoice_app_id: 556baa17
+
 # Theme version
 version: 6.0.4
